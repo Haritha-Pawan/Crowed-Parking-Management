@@ -1,4 +1,13 @@
+Crowd Management System
 
+A smart system to monitor and manage overcrowded public spaces, integrated with IoT-based parking features.
+
+ Features
+- Real-time crowd tracking
+- IoT-based parking slot monitor
+- Admin Dashboard with statistics
+- QR code-based user check-in
+- Auto-counter assignments
 
 <img width="1894" height="1028" alt="Screenshot 2025-07-10 152417" src="https://github.com/user-attachments/assets/51e269bc-6b9c-4cce-b51b-445ad927d89d" />
 
