@@ -1,9 +1,5 @@
  Crowd & Parking Management System with IoT 
 
-A smart IoT-based solution built with the MERN stack (or your stack) to manage **overcrowding** and **real-time parking availability**.
-
----
-
  Features
 
 Crowd Management
